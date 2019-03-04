@@ -13,7 +13,7 @@
     <a href="#" class="report">Assign a captain</a>
 
     <div class="captains">
-        <a href="#">
+        <a href="/capitan/kirk">
             <img src="img/kirk.jpg" alt="">
         </a>
         <a href="#">
@@ -30,7 +30,7 @@
         </a>
     </div>
 
-    
+
 
 </div>
 @endsection

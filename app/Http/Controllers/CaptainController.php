@@ -9,6 +9,7 @@ class CaptainController extends Controller
     //
     public function show($captain_slug)
     {
+        // dd($captain_slug);
         $captain = \App\Captain::where('slug', $captain_slug)->first();
 
         if (!$captain) {
