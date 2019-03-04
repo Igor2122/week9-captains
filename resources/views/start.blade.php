@@ -16,16 +16,16 @@
         <a href="/capitan/kirk">
             <img src="img/kirk.jpg" alt="">
         </a>
-        <a href="#">
+        <a href="/capitan/picard">
             <img src="img/picard.jpg" alt="">
         </a>
-        <a href="#">
+        <a href="/capitan/janeway">
             <img src="img/janeway.jpg" alt="">
         </a>
-        <a href="#">
+        <a href="/capitan/archer">
             <img src="img/archer.jpg" alt="">
         </a>
-        <a href="#">
+        <a href="/capitan/georgiou">
             <img src="img/georgiou.jpg" alt="">
         </a>
     </div>
