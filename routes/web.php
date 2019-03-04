@@ -17,5 +17,6 @@ Route::get('/', function () {
 
 Route::get('capitans/', 'CaptainController@index');
 Route::get('capitan/{slug}', 'CaptainController@show');
+Route::post('capitan/{captainId}', 'CaptainController@saveAssing');
 
 Auth::routes();
